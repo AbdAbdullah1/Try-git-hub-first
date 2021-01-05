@@ -3,6 +3,7 @@
     
 }
 body{
+    margin: 0;
     font-family: 'Redressed', cursive;
 }
 .division{
@@ -32,4 +33,17 @@ p{
  background-image: linear-gradient(45deg,lightsalmon,tomato)
  
     
+}
+.division2{
+    width: 40%;
+    float: left;
+
+}
+.division2 img{
+    width: 100%;
+
+}
+section{margin: 0;
+padding: 100px;
+height: 500px;
 }
