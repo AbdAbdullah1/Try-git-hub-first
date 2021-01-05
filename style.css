@@ -21,3 +21,15 @@ h1{
 p{
     font-size: 20px;
 }
+.hire{
+    
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+    text-decoration: none;
+    color: rgb(83, 25, 25);
+ background-image: linear-gradient(45deg,lightsalmon,tomato)
+ 
+    
+}
